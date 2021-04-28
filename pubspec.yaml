@@ -47,10 +47,10 @@ flutter:
   flutter_application_id:
   android: 
     id: "ITI"
-    name: "MyApplication - Android"
+    name: "ITI - Android"
   ios:
     id: "ITI"
-    name: "MyApplication - iOS"
+    name: "ITI - iOS"
 
   # To add assets to your application, add an assets section, like this:
   assets:
