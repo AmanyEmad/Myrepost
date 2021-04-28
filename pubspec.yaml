@@ -44,6 +44,14 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  flutter_application_id:
+  android: 
+    id: "ITI"
+    name: "MyApplication - Android"
+  ios:
+    id: "ITI"
+    name: "MyApplication - iOS"
+
   # To add assets to your application, add an assets section, like this:
   assets:
     - images/1.png
